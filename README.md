@@ -18,6 +18,7 @@ geoserver        |          |              |          |          |          |
 
 ## References
 
+* https://www.hou.usra.edu/meetings/lpsc2016/pdf/1422.pdf
 * https://www.ogc.org/standards/requests/236
 * https://www.hou.usra.edu/meetings/planetdata2021/pdf/7012.pdf
 
