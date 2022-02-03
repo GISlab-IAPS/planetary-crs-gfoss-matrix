@@ -9,7 +9,7 @@ Software/project | version  | proj version | OS       | DIST     | IAU 2015 | re
 -----------------|----------|--------------|----------|----------|----------|------
 QGIS             | 3.22.2   | 7.2.1        | GNU/Linux| Ubuntu   |  NO      | afrigeri
 QGIS             | >=3.22.2 | 8.2.0        | MSWin    | QGIS dist|  YES     | thareUSGS
-QGIS             | 3.22.2   | 6.3.2-1      | MSWin    | OSGeo4w  |  NO      | thareUSGS
+QGIS             | 3.22.2   | 6.3.2-1      | MSWin    | OSGeo4w  |  NO      | afrigeri
 QGIS             | 3.22.3   | 8.1.1        | OSX      | 12.2     |  NO      | afrigeri
 GRASS            | 7.8.6    | 7.1.1        | OSX      | 12.2     |  NO      | afrigeri
 GRASS            | 8.0.0rc2 | 8.1.1        | OSX      | 12.2     |  NO      | afrigeri
