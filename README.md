@@ -7,11 +7,13 @@ The following table reports the status of software packaged and available for co
 
 Software/project | version  | proj version | OS       | DIST     | IAU 2015 | reporter  
 -----------------|----------|--------------|----------|----------|----------|------
-QGIS             |  3.22.2  | 7.2.1        | GNU/Linux| Ubuntu   | NO       | afrigeri
+QGIS             | 3.22.2  | 7.2.1         | GNU/Linux| Ubuntu   |  NO      | afrigeri
 QGIS             | 3.22.2+  | 8.2.1        | MSWin    | N/A      | YES      | thareUSGS
+QGIS             | 3.22.3   | 8.1.1        | OSX      | 12.2     |  NO      | afrigeri
+GRASS            | 7.8.6    | 7.1.1        | OSX      | 12.2     |  NO      | afrigeri
 mapserver        |          |              |          |          |          |
 geoserver        |          |              |          |          |          |
-gdal             |          |              |          |          |          |
+
 
 ## References
 
